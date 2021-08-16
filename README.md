@@ -4,7 +4,7 @@ Los siguientes microservicios se registran en eureka-server:
 
 * servicio-regitrar-reserva 
 * servicio-consultar-reserva
-* servicio-zuul-server
+* servicio-zul-server
 
 El servicio zul tiene el rol de apiGateway centralizando y  
 controlando las peticiones al interior de la estructura de microservicios  
@@ -12,4 +12,4 @@ controlando las peticiones al interior de la estructura de microservicios
 Para ejecutar este microservicio se necesita:  
 * Sistema Operativo: Windows,MacOS, Linux,
 * Maven version: 3.x+ o Gradle 4.x+
-* Java : 1.8 o superior
+* Java: 1.8 o superior
