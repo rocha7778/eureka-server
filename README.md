@@ -1,6 +1,5 @@
 # eureka-server
-El servidor Eureka permite registrar los microservicios que forman la arquitectura para registrar una reserva, tambien actua como balanceador de carga en caso tal  
-sea necesario escalar algunos de los microservicios registrados en él.
+El servidor Eureka permite registrar los microservicios que forman la arquitectura para registrar una reserva, tambien actua como balanceador de carga en caso tal sea necesario escalar algunos de los microservicios registrados en él.
 Los siguientes microservicios se registran en eureka-server:  
 
 * servicio-regitrar-reserva 
