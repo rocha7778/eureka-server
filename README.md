@@ -7,7 +7,7 @@ Los siguientes microservicios se registran en eureka-server:
 * servicio-zuul-server
 
 El servicio zul tiene el rol de apiGateway centralizando y  
-controlando las peticiones al interior de la estructuras de microservicios  
+controlando las peticiones al interior de la estructura de microservicios  
 
 Para ejecutar este microservicio se necesita:  
 * Sistema Operativo: Windows,MacOS, Linux,
