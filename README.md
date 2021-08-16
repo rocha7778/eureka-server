@@ -6,7 +6,7 @@ Los siguientes microservicios se registran en eureka-server:
 * servicio-consultar-reserva
 * servicio-zuul-server
 
-El servicio zuul tiene el rol de apiGateway centralizando y  
+El servicio zul tiene el rol de apiGateway centralizando y  
 controlando las peticiones al interior de la estructuras de microservicios  
 
 Para ejecutar este microservicio se necesita:  
